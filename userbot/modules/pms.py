@@ -28,7 +28,7 @@ from userbot.events import register
 UNAPPROVED_MSG = (
     "Heyy there! I am Ｏｘｙ's userbot.\n\n"
     "Don't hesitate. This is an automated mesaage.\n\n"
-    "My master (oxy) haven't approved you to PM yet."
+    "My master (𝑶𝒙𝒚) haven't approved you to PM yet."
     "Please wait for my master to look in, He mostly approve PMs unless you are retarded.\n\n"
     "Until then, please don't spam his PM. Spamming you'll automatically get blocked & reported!! \n\n"
     "NOTE: If you send more than five messages, you will get report as spam + block.")
