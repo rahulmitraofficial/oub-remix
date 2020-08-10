@@ -199,6 +199,10 @@ async def amireallyalive(alive):
              f"==================================== \n"
              f"User 👨‍🚀: {DEFAULTUSER} \n"
              f"Maintainer 🏄‍♂️: @heyworld \n"
+             f"i am ᗩᒪᓰᐺᘿ My 𝕄𝕒𝕤𝕥𝕖𝕣 \n"
+             f"𝘪 𝙘𝙖𝙣'𝙩 Ðïê \n"
+             f"Always with you my master ! \n"
+             f"My everything my Owner:-Oxy (SprayGod) \n"
              f"====================================\n")
     await bot.send_file(alive.chat_id, logo, caption=output)
     await alive.delete()
